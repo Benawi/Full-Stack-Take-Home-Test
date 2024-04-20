@@ -15,7 +15,7 @@ Need to write a simple API backed by any kind of database. The application shoul
 - Keep it mind that the geolocation module should be written in the way that in the future it should be easy to change the service provider.
 - It is preferable that the API operates using JSON (for both input and output). Ideally it should follow JSON API standard.
 - The solution should also include base specs/tests coverage. If you don’t have enough time, write complete specs for selected endpoint or module.
-- As a bonus you can make all endpoints secure, not available to public.
+- As a bonus you can make all endpoints secure, not available to public
 
 ### How to submit: Create a public Git repository and share the link with us
 
